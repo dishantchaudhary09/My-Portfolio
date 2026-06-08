@@ -1,2 +1,2 @@
 ## Screenshot
-![My Portfoli Website](My Portfolio Image.png)
+![My Portfolio Website](My%20Portfolio%20Image.png)
